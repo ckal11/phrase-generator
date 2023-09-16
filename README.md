@@ -1,6 +1,6 @@
 # co6d6447980497dd5775ab78d
 
-Quick start:
+Quick start: This a hprase generator that uses AI.
 
 ```
 $ npm install
